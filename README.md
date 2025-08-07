@@ -1,4 +1,4 @@
-# My Personal Obsidian Theme
+# SPIRE : My Personal Obsidian Theme
 
 ![Theme Screenshot](preview.png)
 
