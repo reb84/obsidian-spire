@@ -274,6 +274,46 @@ body {
 
 }
 
+.theme-dark {
+    --red: 180, 100, 95;
+    --orange: 200, 140, 100;
+    --yellow: 200, 180, 100;
+    --green: 120, 170, 110;
+    --cyan: 120, 190, 180;
+    --blue: 110, 160, 200;
+    --purple: 170, 120, 190;
+    --pink: 195, 110, 155;
+    --txt: #e8e1da;
+    --txt-muted: #b8b1ab;
+    --txt-subtle: #8c8680;
+    --base: #1a1612;
+    --mantle: #201c18;
+    --surface: rgba(58, 77, 88, 0.25);
+    --crust: #2f2b24;
+    --crust2: #3a362f;
+    --crust3: #252119;
+    --shadow-color-rgb: 0, 0, 0;
+}
+
+/* ------ RAINBOW FOLDERS ------ */
+/* I wanted a colours that were not dictated by my theme as I prefer a muted theme but
+saturated folders. Colours can be tweaked below. */
+.theme-light,
+.theme-dark {
+    --rainbow1: 199, 79, 70;
+    --rainbow2: 222, 117, 83;
+    --rainbow3: 224, 162, 84;
+    --rainbow4: 186, 168, 87;
+    --rainbow5: 140, 165, 110;
+    --rainbow6: 120, 164, 150;
+    --rainbow7: 125, 170, 180;
+    --rainbow8: 108, 145, 168;
+    --rainbow9: 132, 135, 160;
+    --rainbow10: 154, 127, 144;
+    --rainbow11: 173, 115, 125;
+}
+
+
 
 /* ------ DISABLED FEATURES ------ */
 
@@ -548,20 +588,6 @@ body:not(.no-pin) .workspace-tab-header:has(.mod-pinned) {
 I only like the simple folder style so I have adapted and removed options I don't need.
 ------ */
 
-.theme-light,
-.theme-dark {
-    --rainbow1: 199, 79, 70;
-    --rainbow2: 222, 117, 83;
-    --rainbow3: 224, 162, 84;
-    --rainbow4: 186, 168, 87;
-    --rainbow5: 140, 165, 110;
-    --rainbow6: 120, 164, 150;
-    --rainbow7: 125, 170, 180;
-    --rainbow8: 108, 145, 168;
-    --rainbow9: 132, 135, 160;
-    --rainbow10: 154, 127, 144;
-    --rainbow11: 173, 115, 125;
-}
 
 .nav-folder-children>.nav-folder:nth-child(11n+2),
 .nav-files-container>div>.nav-folder:nth-child(11n+2),

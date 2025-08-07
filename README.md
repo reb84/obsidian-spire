@@ -18,6 +18,7 @@ This is my personal Obsidian theme, built specifically for my own workflow and p
 ## What's Included
 
 ### Custom Features
+- **Light/Dark colourscheme**
 - **Custom checkboxes** - Special checkbox styling for various task states. Icons from Lucide.
   
   ![Custom Checkboxes](checkbox-preview.png)
@@ -32,6 +33,8 @@ This is my personal Obsidian theme, built specifically for my own workflow and p
 
 ### Third-Party Elements
 The rainbow folder colours are adapted from [AnubisNekhet's](https://github.com/AnubisNekhet) brilliant [AnuPpuccin theme](https://github.com/AnubisNekhet/AnuPpuccin), though they've been significantly pared down to suit my minimalist preferences.
+
+While I prefer a muted palette for my theme I do enjoy having more saturated folders. Colours can be tweaked inside the CSS.
 
 ## Installation
 
