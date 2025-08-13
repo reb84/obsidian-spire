@@ -1,6 +1,6 @@
-# SPIRE : My Personal Obsidian Theme
+![Theme Preview](thumb.png)
 
-![Theme Screenshot](preview.png)
+# SPIRE : My Personal Obsidian Theme
 
 ## About This Theme
 
@@ -12,19 +12,20 @@ This is my personal Obsidian theme, built specifically for my own workflow and p
 - **Not comprehensively tested**: Only tested with features I personally use in my daily workflow
 - **Version compatibility**: Only tested on Obsidian version 1.8.10 and later
 - **Not mobile optimised**: This theme is designed for desktop use only
-- **No planned expansion**: I have no plans to develop this further for submission to the official Obsidian theme gallery
+- **No planned expansion**: I have no plans at the moment to develop this further for submission to the official Obsidian theme gallery
 - **No Style Settings support**: This theme doesn't include Style Settings plugin compatibility
 
 ## What's Included
 
 ### Custom Features
+
 - **Light/Dark colourscheme**
 - **Custom checkboxes** - Special checkbox styling for various task states. Icons from Lucide.
-  
+
   ![Custom Checkboxes](checkbox-preview.png)
 
 - **Custom callouts** - Unique styling for several callout types
-  
+
   ![Custom Callouts](callouts-preview.png)
 
   - **[!|noicon]** - Hides callout icon
@@ -32,6 +33,7 @@ This is my personal Obsidian theme, built specifically for my own workflow and p
   - **[!quote]** is a tweaked version of the quote callout. Note that 'cite' still works as default.
 
 ### Third-Party Elements
+
 The rainbow folder colours are adapted from [AnubisNekhet's](https://github.com/AnubisNekhet) brilliant [AnuPpuccin theme](https://github.com/AnubisNekhet/AnuPpuccin), though they've been significantly pared down to suit my minimalist preferences.
 
 While I prefer a muted palette for my theme I do enjoy having more saturated folders. Colours can be tweaked inside the CSS.
@@ -56,4 +58,4 @@ Feel free to download, use, and modify this theme however you'd like. If you mak
 
 ---
 
-*This theme works perfectly for my setup, but your mileage may vary. Happy note-taking!*
+_This theme works perfectly for my setup, but your mileage may vary. Happy note-taking!_
