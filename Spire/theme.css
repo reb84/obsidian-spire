@@ -18,7 +18,6 @@ That includes mobile.
     - RIBBON
     - HIDE VAULT HELP
     - ALIGN LEFT TOGGLE
-    - NAV EXTENSION TO RIGHT
     - ICON SWITCH
     - RAINBOW FOLDERS
 - EDITOR & CONTENT
@@ -407,10 +406,6 @@ body:not(.is-mobile) .workspace-split.mod-left-split .workspace-sidedock-vault-p
     border-radius: 8px;
 }
 
-.workspace-split.mod-horizontal>* {
-    width: auto;
-}
-
 /* <--------remove for default --- */
 
 
@@ -534,11 +529,6 @@ body:not(.no-pin) .workspace-tab-header:has(.mod-pinned) {
     display: none
 }
 
-
-/* ------ file extensions to right ------ */
-.nav-file-title-content {
-    flex-grow: 1;
-}
 
 
 
