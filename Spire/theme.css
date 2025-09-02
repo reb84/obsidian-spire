@@ -355,6 +355,10 @@ body:not(is-mobile) .workspace-tab-container {
     margin: 0px;
 }
 
+.workspace-split.mod-horizontal>* {
+    width: auto;
+}
+
 body:not(is-mobile):not(.show-ribbon) .workspace {
     margin-left: 14px;
 }
