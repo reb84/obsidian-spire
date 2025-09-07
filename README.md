@@ -1,3 +1,5 @@
+![Downloads](https://img.shields.io/github/downloads/Reb84/https://github.com/reb84/obsidian-spire/total?style=for-the-badge&logo=github&logoColor=white&color=blue)
+
 ![Theme Preview](thumb.png)
 
 # SPIRE : My Personal Obsidian Theme
