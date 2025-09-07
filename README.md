@@ -1,4 +1,4 @@
-![Downloads](https://img.shields.io/github/downloads/Reb84/https://github.com/reb84/obsidian-spire/total?style=for-the-badge&logo=github&logoColor=white&color=blue)
+<img src="https://img.shields.io/github/downloads/Reb84/https://github.com/reb84/obsidian-spire/total?style=for-the-badge&logo=github&logoColor=white&color=blue" alt="Downloads">
 
 ![Theme Preview](thumb.png)
 
